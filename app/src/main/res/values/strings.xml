@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="select_country_name">PlaceHolderCountry</string>
+    <array name="array_country">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Canada</item>
+        <item>Thailand</item>
+        <item>Farance</item>
+        <item>USA</item>
+        <item>Mexico</item>
+        <item>Russia</item>
+    </array>
+</resources>
